@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I want to become FullStack Developer and Project Manager
+I want to become Tester 
 
 * 🌍  I'm based in HCM City
 * ✉️  You can contact me at [khoatdd0811@gmail.com](mailto:khoatdd0811@gmail.com)
